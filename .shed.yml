@@ -1,6 +1,6 @@
 categories:
-- Qualimap
-- Tool Dependency Packages
+    - Statistics
+    - Tool Dependency Packages
 description: Contains a tool dependency definition that downloads and compiles version 2.2 of qualimap.
 long_description: |
     Qualimap 2 is a platform-independent application written in Java and R that provides both a Graphical User Inteface
