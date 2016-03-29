@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <tool_dependency>
     <package name="qualimap" version="2.2">
-        <install version="2.2">
+        <install version="1.0">
             <actions_group>
                 <actions>
                     <action type="download_by_url">https://depot.galaxyproject.org/software/qualimap/qualimap_2.2_src_all.zip</action>
